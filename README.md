@@ -27,12 +27,7 @@ This project focuses on automating inventory management in warehouses by predict
 - Trained on a grocery dataset with 3000 entries, achieving 98% predictive accuracy.
 - Forecasts required stock quantities for optimal inventory management.
 - Employs NLP for sentiment analysis of news trends affecting commodity sales.
-- Sentiment score guides stock adjustment decisions (-1.0 to 1.0 scale).
+- Sentiment score(-1.0 to 1.0 scale) guides stock adjustment decisions .
 - Assesses warehouse space availability for efficient stock allocation.
 
-## Thank You
-Thank you for exploring our project. For more details, please refer to our documentation.
-
----
-
-Feel free to adjust the content based on your project specifics and add any additional details you think are relevant.
+## Thank You :)
