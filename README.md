@@ -17,17 +17,10 @@ This project focuses on automating inventory management in warehouses by predict
 5. **Generating Alerts:** Sends alerts for restocking based on current requirements.
 6. **Automating Inventory Management:** Manages inventory based on current requirements.
 
-## Important Attributes to Train Model
-- Data Train Model Using Deep Learning
-- Trend Analysis
+## Important Attributes 
+- Historical Data Trained Model Using Deep Learning
+- Trend Analysis effect on prediction
 
-## Market Analysis
-- Transportation Cost Reduction
-- Real-Time Decision Support
-- Inventory Optimization
-- Machine Learning using GBR Model
-- NLP using Sentiment Analysis
-- React.js for Frontend
 
 ## Model Details
 - Utilizes GBR algorithm for predicting future sales based on historical data and current warehouse conditions.
